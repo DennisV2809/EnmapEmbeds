@@ -1,0 +1,22 @@
+{
+  "name": "enmap-embeds",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DennisV2809/EnmapEmbeds.git"
+  },
+  "author": "Dennis Vriend <dennisvriend@dennisvriend.nl> (www.dennisvriend.nl)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/DennisV2809/EnampEmbeds/issues"
+  },
+  "homepage": "https://github.com/DennisV2809/EnampEmbeds#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
